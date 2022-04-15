@@ -1,0 +1,19 @@
+{
+    "name": "eduardo/regex",
+    "description": "Biblioteca utilitária para expressões regulares.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Regex\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eduardo",
+            "email": "edmonteironet@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

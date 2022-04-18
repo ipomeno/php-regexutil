@@ -1,0 +1,57 @@
+A autenticidade do documento pode ser verificada no site https://validaarquivo.portaldecompraspublicas.com.br
+Documento gerado eletronicamente no Portal de Compras Públicas em 15/03/2022 às 12:08:07.
+Código verificador: 21AA3C
+Página 1 de 1
+VENCEDORES DO PROCESSO
+Prefeitura Municipal de Parobé
+Prefeitura Municipal de Parobé
+Pregão Eletrônico - 8/2022
+J MARTINS COMERCIO DE SUPRIMENTOS DE INFORMATICA EIRELI - Tipo: EPP/SS - LC123: Sim -
+Documento 20.058.175/0001-67 - Endereço: AV. MIGUEL SOCCOL - CEP: 99250000 - UF: RS -
+Município: - Telefone: (54) 3444-9488
+Código Produto Modelo Marca/Fabricante Qtde Valor Unitário Valor Total
+0003 TONER HP LASER JET PRO MFP M479 FDW
+PRETO
+W2020A PRETO TONER CARTRIDGE 100 UN R$ 89,00 8.900,00
+0004 TONER HP LASER JET PRO MFP M479 FDW
+AMARELO
+W2022A AMARELO TONER CARTRIDGE 100 UN R$ 89,00 8.900,00
+0005 TONER HP LASER JET PRO MFP M479 FDW
+ROSA
+W2023A MAGENTA TONER CARTRIDGE 100 UN R$ 89,00 8.900,00
+0006 TONER HP LASER JET PRO MFP M479 FDW
+AZUL
+W2021A CIANO TONER CARTRIDGE 100 UN R$ 89,99 8.999,00
+TOTAL DO VENCEDOR R$ 35.699,00
+LSF COMERCIO E SERVICOS DE IMPRESSAO EIRELI - Tipo: EPP/SS - LC123: Sim - Documento 29.500.349/0001-74 -
+Endereço: Rua Taquari - CEP: 03166001 - UF: SP - Município: - Telefone: (11) 2292-6819
+Código Produto Modelo Marca/Fabricante Qtde Valor Unitário Valor Total
+0008 TONER PARA IMP HP LASERJET PRO 400
+M401N
+CF280A MTSI Compatível 100 UN R$ 23,00 2.300,00
+TOTAL DO VENCEDOR R$ 2.300,00
+R.N. BALTAZAR - COMERCIO DE INFORMATICA - Tipo: ME - LC123: Sim - Documento 26.668.902/0001-94 - Endereço: Rua
+Aracaju - CEP: 15800250 - UF: SP - Município: - Telefone: (17) 3531-0300
+Código Produto Modelo Marca/Fabricante Qtde Valor Unitário Valor Total
+0001 CARTUCHO PARA A IMPRESSORA HP 3545 3545 FASTPRINTER/IMPORTADO 200 UN R$ 46,00 9.200,00
+TOTAL DO VENCEDOR R$ 9.200,00
+RS MIDIA SUPRIMENTOS DE INFORMATICA LTDA - Tipo: ME - LC123: Sim - Documento 13.383.196/0001-92 - Endereço: Av.
+Protasio Alves - CEP: 90410003 - UF: RS - Município: - Telefone: (51) 3073-2061
+Código Produto Modelo Marca/Fabricante Qtde Valor Unitário Valor Total
+0007 CARTUCHO 667 - IMPRESSORA DESK JET INX
+ADVANTAGE 2376
+667 HP ORIGINAL / HP 100 UN R$ 48,90 4.890,00
+TOTAL DO VENCEDOR R$ 4.890,00
+TB SUPRIMENTOS PARA INFORMÁTICA LTDA - ME - Tipo: EPP/SS - LC123: Sim - Documento 24.291.879/0001-36 -
+Endereço: AVENIDA RUBEN BENTO ALVES, - CEP: 95012404 - UF: RS - Município: - Telefone: (51) 3366-2894
+Código Produto Modelo Marca/Fabricante Qtde Valor Unitário Valor Total
+0009 CARTUCHO HP2050 PRETO HP2050 INK 100 UN R$ 42,00 4.200,00
+TOTAL DO VENCEDOR R$ 4.200,00
+V. C. DA ROCHA DISTRIBUIDORA – ME. - Tipo: ME - LC123: Sim - Documento 05.808.979/0001-42 - Endereço: RUA ANTONIO
+OLIMPIO - CEP: 15014410 - UF: SP - Município: - Telefone: (17) 3353-1945
+Código Produto Modelo Marca/Fabricante Qtde Valor Unitário Valor Total
+0002 TONER PARA IMP RICOH LASERJET SP 3510
+SF, PRETO
+SP3510 DSI-CHINAMATE 100 UN R$ 80,00 8.000,00
+TOTAL DO VENCEDOR R$ 8.000,00
+Valor Total: R$ 64.289,00

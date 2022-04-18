@@ -14,5 +14,5 @@ Para estudos de Regex e facilitar a recorrente extração dos pequenos blocos de
 - [ ] **clip**: Recorta um texto de acordo com a expressão de início e final.
 - [ ] **pos**: Encontra a posição da primeira ocorrência de uma expressão.
 - [ ] **posAll**: Retorna uma lista com a posição de todas as ocorrências de uma expressão.
-- [ ] **translate**: Traduz uma série de expressões padrãos como [:moeda:], [:cnpj:], [:email:] para expressão regular.
+- [ ] **translate**: Traduz uma série de expressões padrões como [:moeda:], [:cnpj:], [:email:] para expressão regular.
 - [ ] **remove**: Remove ocorrências de expressões num determinado texto.
